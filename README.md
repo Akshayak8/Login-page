@@ -20,7 +20,7 @@ This project is a Netflix login page developed using HTML and CSS. It replicates
 
 ## Screenshots
  
-
+![Screenshot](Screenshot.png)
 
 ## Future Improvements
 
