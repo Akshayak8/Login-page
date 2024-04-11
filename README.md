@@ -19,8 +19,9 @@ This project is a Netflix login page developed using HTML and CSS. It replicates
 2. **Open HTML File:** Open the `index.html` file in a web browser to view the Netflix login page.
 
 ## Screenshots
-
  
+![Screenshot](screenshot.png)
+
 
 ## Future Improvements
 
